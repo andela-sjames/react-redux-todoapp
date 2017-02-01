@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-todoapp",
+  "version": "1.0.0",
+  "description": "A simple Todo App using Redux and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-sjames/react-redux-todoapp.git"
+  },
+  "author": "samuel james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-sjames/react-redux-todoapp/issues"
+  },
+  "homepage": "https://github.com/andela-sjames/react-redux-todoapp#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-redux": "^5.0.2"
+  }
+}
